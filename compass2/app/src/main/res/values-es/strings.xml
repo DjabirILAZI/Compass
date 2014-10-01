@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Compas</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title_activity_my_activity">Actividad</string>
+    <string name="title_activity_accelerometer_example_main">Acelerometro</string>
+    <string name="textView_text">Agitar /Mueve el telefono para conseguir el acelerometro</string>
+    <string name="heading_text">Parametros: 0.0</string>
+    <string name="capturePhoto_text">Tomar foto</string>
+    <string name="clickButton_text">Clickea el boton para capturar</string>
+
+</resources>
