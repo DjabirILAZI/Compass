@@ -20,9 +20,6 @@
            android:name=".CameraPhotoCapture">
         </activity>
 
-        <uses-sdk
-            android:minSdkVersion="8"
-            android:targetSdkVersion="10" />
 
         <application
             android:allowBackup="true"
